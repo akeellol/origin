@@ -59,6 +59,174 @@
             app:layout_constraintTop_toTopOf="@+id/imageView3"
             app:srcCompat="@drawable/camera" />
 
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layoutname8"
+            android:layout_width="295dp"
+            android:layout_height="58dp"
+            android:backgroundTint="#FFFFFF"
+            android:textColorHint="#F6F3F3"
+            app:boxBackgroundColor="#08091B"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="#F6F1F1"
+            app:hintTextColor="#F3EFEF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintVertical_bias="0.36">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textview8"
+                android:layout_width="295dp"
+                android:layout_height="58dp"
+                android:fontFamily="@font/poppins_bold"
+                android:inputType="textPersonName"
+                android:letterSpacing="1"
+                android:textColor="#EB9F3E"
+                tools:text="- | 25 | +" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layoutname9"
+            android:layout_width="295dp"
+            android:layout_height="58dp"
+            android:backgroundTint="#FFFFFF"
+            android:hint="Last Name"
+            android:textColorHint="#F6F3F3"
+            app:boxBackgroundColor="#08091B"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="#F6F1F1"
+            app:hintTextColor="#F3EFEF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintVertical_bias="0.47000003">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textview9"
+                android:layout_width="295dp"
+                android:layout_height="58dp"
+                android:inputType="textPersonName"
+                android:textColor="#F6F4F4" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layoutname10"
+            android:layout_width="295dp"
+            android:layout_height="58dp"
+            android:backgroundTint="#FFFFFF"
+            android:hint="Last Name"
+            android:textColorHint="#F6F3F3"
+            app:boxBackgroundColor="#08091B"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="#F6F1F1"
+            app:hintTextColor="#F3EFEF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintVertical_bias="0.57">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textview10"
+                android:layout_width="295dp"
+                android:layout_height="58dp"
+                android:inputType="textPersonName"
+                android:textColor="#F6F4F4" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layoutname11"
+            android:layout_width="295dp"
+            android:layout_height="58dp"
+            android:backgroundTint="#FFFFFF"
+            android:hint="Last Name"
+            android:textColorHint="#F6F3F3"
+            app:boxBackgroundColor="#08091B"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="#F6F1F1"
+            app:hintTextColor="#F3EFEF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintVertical_bias="0.69">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textview11"
+                android:layout_width="295dp"
+                android:layout_height="58dp"
+                android:inputType="textPersonName"
+                android:textColor="#F6F4F4" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/layoutname12"
+            android:layout_width="295dp"
+            android:layout_height="58dp"
+            android:backgroundTint="#FFFFFF"
+            android:hint="Last Name"
+            android:textColorHint="#F6F3F3"
+            app:boxBackgroundColor="#08091B"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="#F6F1F1"
+            app:hintTextColor="#F3EFEF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintVertical_bias="0.81">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textview12"
+                android:layout_width="295dp"
+                android:layout_height="58dp"
+                android:inputType="textPersonName"
+                android:textColor="#F6F4F4" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="294dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="57dp"
+            android:layout_marginEnd="62dp"
+            android:layout_marginBottom="49dp"
+            android:text="Next"
+            android:background="#EB9F3E"
+            android:textColor="#F8F5F5"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/layoutname12"
+            app:layout_constraintVertical_bias="0.591" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -68,7 +236,6 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="240dp"
         android:layout_marginEnd="32dp"
-        android:layout_marginBottom="434dp"
         android:backgroundTint="#FFFFFF"
         android:hint="First name"
         android:textColorHint="#F6F3F3"
@@ -80,10 +247,11 @@
         app:boxCornerRadiusTopStart="15dp"
         app:boxStrokeColor="#F6F1F1"
         app:hintTextColor="#F3EFEF"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/layoutname2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/textview2"
@@ -100,7 +268,6 @@
         android:layout_width="295dp"
         android:layout_height="58dp"
         android:layout_marginStart="32dp"
-        android:layout_marginTop="56dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="434dp"
         android:backgroundTint="#FFFFFF"
@@ -118,8 +285,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.45"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/constraintLayout2"
-        app:layout_constraintVertical_bias="0.87">
+        app:layout_constraintTop_toBottomOf="@+id/layoutname"
+        app:layout_constraintVertical_bias="0.0">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/textview3"
@@ -136,9 +303,9 @@
         android:layout_width="295dp"
         android:layout_height="103.88dp"
         android:layout_marginStart="32dp"
-        android:layout_marginTop="56dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
-        android:layout_marginBottom="434dp"
+        android:layout_marginBottom="56dp"
         android:backgroundTint="#FFFFFF"
         android:hint="Description"
         android:textColorHint="#F6F3F3"
@@ -150,12 +317,12 @@
         app:boxCornerRadiusTopStart="15dp"
         app:boxStrokeColor="#F6F1F1"
         app:hintTextColor="#F3EFEF"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.45"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/constraintLayout2"
-        app:layout_constraintVertical_bias="0.68">
+        app:layout_constraintTop_toBottomOf="@+id/layoutname1"
+        app:layout_constraintVertical_bias="0.050000012">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/textview4"
@@ -165,6 +332,7 @@
             android:textColor="#F6F4F4" />
 
     </com.google.android.material.textfield.TextInputLayout>
+
 
 
 
