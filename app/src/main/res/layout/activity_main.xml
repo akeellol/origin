@@ -199,7 +199,7 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/layoutname"
+        android:id="@+id/firstname"
         android:layout_width="295dp"
         android:layout_height="58dp"
         android:layout_marginStart="32dp"
@@ -233,7 +233,7 @@
 
 
     <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/layoutname1"
+        android:id="@+id/lastname"
         android:layout_width="295dp"
         android:layout_height="58dp"
         android:layout_marginStart="32dp"
@@ -254,7 +254,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.45"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/layoutname"
+        app:layout_constraintTop_toBottomOf="@+id/firstname"
         app:layout_constraintVertical_bias="0.0">
 
         <com.google.android.material.textfield.TextInputEditText
@@ -290,7 +290,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.45"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/layoutname1"
+        app:layout_constraintTop_toBottomOf="@+id/lastname"
         app:layout_constraintVertical_bias="0.050000012">
 
         <com.google.android.material.textfield.TextInputEditText
